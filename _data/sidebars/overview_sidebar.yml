@@ -1,0 +1,57 @@
+entries:
+- title: Pharmacy Activity Reporting API
+  product: Pharmacy Activity Reporting API<br/>
+  version: v0.0.1
+  levels: one
+  folders:
+
+  - title: Get Started
+    output: web
+    folderitems:
+    - title: Introduction
+      url: /index.html
+      output: web
+      type: homepage
+
+  - title: Develop
+    output: web
+    folderitems:
+    - title: Overview
+      url: /development_overview.html
+      output: web
+    - title: User Authentication & Authorization
+      url: /user_auth.html
+      output: web
+    - title: Create a Claim
+      url: /development_create_claim.html
+      output: web
+    - title: View a Claim
+      url: /development_view_claim.html
+      output: web
+    - title: Search Claims
+      url: /development_search_claims.html
+      output: web
+    - title: Cross organisation audit and provenance
+      url: /cross_organisation_audit_and_provenance.html
+      output: web
+    - title: Errors
+      url: /errors.html
+      output: web
+    - title: API Operations Reference
+      url: /api_operations_reference.html
+      output: web
+  - title: Test
+    output: web
+    folderitems:
+    - title: Acceptance Criteria
+      url: /testing_acceptance_criteria.html
+      output: web
+    - title: Test Data
+      url: /testing_data.html
+      output: web
+    - title: Test Deliverables
+      url: /testing_deliverables.html
+      output: web
+    - title: Test Environments
+      url: /testing_environments.html
+      output: web
